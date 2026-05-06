@@ -1,0 +1,21 @@
+body {
+  background-color: #c8a2c8;
+  color: black;
+  text-align: center;
+}
+img {
+  width: 300px;
+  border-radius: 10%;
+  border-color: #a8c3a0;
+  border-bottom: #a8c3a0;
+  display: flexbox;
+}
+.tai {
+  background-color: #ff8243;
+  color: black;
+}
+table {
+  align-items: center;
+  display: flex;
+  border-radius: 0cap;
+}
